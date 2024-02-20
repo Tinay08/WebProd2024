@@ -55,4 +55,8 @@
   .splide__slide.is-active {
     opacity: 1;
   }
+
+  .main-carousel {
+    animation: popUp 2s ease-in;
+  }
   
